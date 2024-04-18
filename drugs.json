@@ -14,5 +14,8 @@
     {
         "name": "Syr Paracetamol 200mg",
         "price": 20
+    },{
+        "name": "Tab Dexamethasone 5mg",
+        "price": 10
     }
 ]
